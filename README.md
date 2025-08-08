@@ -24,3 +24,15 @@ This Power BI dashboard analyzes casino spin data to uncover sequence patterns, 
 - DAX Calculations
 - Visual Design & KPI Creation
 - Interactive Reporting
+
+## Summary
+This project analyzes casino spin sequences to identify number patterns, frequency trends, and positional probabilities. Using Power BI, the dashboard provides insights into most and least frequent numbers, common sequences, and probability shifts before and after specific outcomes.
+
+## Recommendations
+Focus bets on numbers with higher historical frequency for better odds.
+
+Monitor “before” and “after” number patterns to anticipate outcomes.
+
+Regularly update the dataset to keep predictions relevant.
+
+Avoid over-reliance on low-frequency numbers unless following a specific betting strategy.
