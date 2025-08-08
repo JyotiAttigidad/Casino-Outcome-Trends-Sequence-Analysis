@@ -4,7 +4,7 @@ Casino Spin Pattern &amp; Outcome Analysis Dashboard – An interactive Power BI
 ## Project Overview
 This Power BI dashboard analyzes casino spin data to uncover sequence patterns, frequencies, and trends. It includes two main pages:
 - **Sequence Analysis** — explores spin order and transitions.
-- **Data Analysis** — shows frequency insights, distribution categories, and key metrics.
+- **Spin Analysis** — shows frequency insights, distribution categories, and key metrics.
 
 ## Tools & Technologies Used
 - Power BI
